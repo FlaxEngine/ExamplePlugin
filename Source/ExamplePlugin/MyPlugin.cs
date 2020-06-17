@@ -20,12 +20,6 @@ namespace ExamplePlugin
             RepositoryUrl = "https://github.com/FlaxEngine/ExamplePlugin",
             Description = "This is an example plugin project.",
             Version = new Version(1, 0),
-            SupportedPlatforms = new[]
-            {
-                PlatformType.Windows,
-                PlatformType.WindowsStore,
-                PlatformType.XboxOne,
-            },
             IsAlpha = false,
             IsBeta = false,
 		};
